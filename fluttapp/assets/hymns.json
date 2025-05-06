@@ -1,0 +1,26 @@
+{
+  "hymns": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Amazing Grace",
+        "yo": "Oore Ofe Iyanu"
+      },
+      "lyrics": {
+        "en": "Amazing grace! How sweet the sound\nThat saved a wretch like me...",
+        "yo": "Oore ofe iyanu! Bawo ni ohun naa dun to\nTi o gba elese bi emi la..."
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Blessed Assurance",
+        "yo": "Ileri Ayo"
+      },
+      "lyrics": {
+        "en": "Blessed assurance, Jesus is mine!\nOh, what a foretaste of glory divine!",
+        "yo": "Ileri ayo, Jesu temi!\nOhun ti n yo mi ni ogo nla!"
+      }
+    }
+  ]
+}
